@@ -51,7 +51,7 @@ function loadSprites(){
 
 let cactusArray = [];
 function loadCactus(){
-    const cactusArr = ['../assets/cactus1.png','../assets/cactus2.png','../assets/cactus3.png'];
+    const cactusArr = ['./assets/cactus1.png','./assets/cactus2.png','./assets/cactus3.png'];
     let GAP  = 1 ;
     
     for(var c of cactusArr){
